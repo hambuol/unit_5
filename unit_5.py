@@ -1,6 +1,7 @@
 # written by oliver hamburger
 # this program is a number guessing game
 
+#imports "random" commands
 import random
 
 if input("would you like to guess my number? (y/n): ") == "y":
@@ -11,6 +12,8 @@ if input("would you like to guess my number? (y/n): ") == "y":
     def game_loop():
         while True:
             guess = input("pick a number between 1 and 100: ")
+
+
 
 
 
