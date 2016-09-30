@@ -47,7 +47,7 @@ def main():
     else:
          final()
 
-#calls the function that runs all the other functions
+
 main()
 
 
